@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+#This is a single line comment
+#Python programme to illustrate the user of operaters
+#Name :Lydia Wambui
+#Email : githuthalydia@gmial.com
+#Date : 17th February
+#File : cunbes-squares
 #programme to print the squares and cubes of numbers
 '''
 for i in range(0,10):

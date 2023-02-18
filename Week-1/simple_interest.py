@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+#This is a single line comment
+#Python programme to illustrate the user of operaters
+#Name :Lydia Wambui
+#Email : githuthalydia@gmial.com
+#Date : 17th February
+#File : simple interest
 #Write a programme to calculate simple interest
 p=input("Enter the principle amount:")
 r=input("Enter the rate:")
