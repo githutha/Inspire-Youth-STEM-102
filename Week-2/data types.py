@@ -35,3 +35,4 @@ cube_x = x**3
 number = 13
 print("square of numbers:",number**2)
 print("cubes of numbers:",number**3)
+
