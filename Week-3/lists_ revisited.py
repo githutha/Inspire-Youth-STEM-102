@@ -4,7 +4,7 @@
 #Name :Lydia Wambui
 #Email : githuthalydia@gmial.com
 #Date : 17th February
-#File : type-casting
+#File : lists_revisited
 
 myFavouriteFruits = ["apple","pineapple","peach","avocado","melon","orange"]
 for fruit in myFavouriteFruits :
