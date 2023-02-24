@@ -27,3 +27,11 @@ student = {"name" : "Lydia","age":19,"gender":"female"}
 print(student["name"])
 print(student["age"])
 print(student["gender"])
+
+#sets
+my_fruits = {"banana","orange","peach","melon","quava"}
+for fruit in my_fruits:
+    print(fruit)
+    print(len(my_fruits))
+   #divided into ordered(similar data types)&non ordered(different data types)
+    
