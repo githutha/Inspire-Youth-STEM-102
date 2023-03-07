@@ -1,0 +1,41 @@
+.body{
+    background-color: aquamarine;
+}
+h1{
+    font-size: 40px;
+    color: black;
+    align-self: center;
+    font-family: sans-serif;
+    max-height:30px;
+}
+
+body{
+    font-family:arial,serif;
+    font-weight: bold;
+    font-size: 12px;
+    background-color: rgb(255, 205, 130);
+}
+
+#msg_button{
+    color: aqua;
+    margin: 25px;
+    align-self: center;
+    background-color: rgb(24, 138, 92);
+    border-radius: 10px;
+}
+
+p{
+    color: rgb(74, 241, 186);
+    font-size: larger;
+    align-self: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black;
+}
+
+#email_button{
+    color: aqua;
+    margin: 35px;
+    align-self: center;
+    background-color: rgb(35, 84, 218);
+    border-radius: 15px;
+}

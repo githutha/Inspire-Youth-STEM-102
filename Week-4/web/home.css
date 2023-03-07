@@ -1,0 +1,29 @@
+#image-1{
+    width: 250px;
+    height: 150px;
+}
+#image-2{
+    width: 150px;
+    height: 150px;
+}
+#image-3{
+    width:170px;
+    height: 150px;
+}
+#image-4{
+    width: 150px;
+    height: 150px;
+}
+#contact-button{
+    color: rgb(13, 167, 238);
+    margin: 20px;
+    align-self:baseline;
+    background-color: rgb(6, 117, 73);
+    border-radius: 15px;
+}
+body{
+    font-family:cursive;
+    font-weight: bold;
+    font-size: 13px;
+    background-color: rgb(247, 158, 24);
+}
